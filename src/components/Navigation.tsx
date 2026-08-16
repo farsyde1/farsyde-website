@@ -21,7 +21,7 @@ export default function Navigation() {
           href="#top"
           className="flex items-center gap-2 text-lg font-extrabold tracking-widest text-white"
         >
-          <span className="text-accent-400">F</span>ARSYDE
+          FARSYDE
           <span className="text-sm font-medium tracking-normal text-slate-400">
             LLC
           </span>
